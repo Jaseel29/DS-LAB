@@ -53,7 +53,7 @@ class matrixmul
         
     }
 }
-public class Main
+public class Matrixmultiplication
 {
     public static void main(String[]args)
     {
